@@ -1,7 +1,5 @@
 # ToDoListWithAI (Node + Express)
 
-#  TodoList API – Node.js + Express
-
 ##  Descripción del Proyecto
 
 Este es un proyecto simple de una **API REST para gestionar tareas (ToDo List)** usando únicamente **JavaScript, Node.js y Express**, sin base de datos.
